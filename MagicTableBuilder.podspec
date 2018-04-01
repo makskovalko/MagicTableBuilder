@@ -24,9 +24,8 @@ Pod::Spec.new do |s|
   #   * Try to keep it short, snappy and to the point.
   #   * Write the description between the DESC delimiters below.
   #   * Finally, don't worry about the indent, CocoaPods strips it!
-  s.description  = <<-DESC
-                   DESC
-
+s.description  = "MagicTableBuilder is a library which helps to build complex table views in declarative functional way. It based on generics and helps to avoid mistakes in compile time and make code pretty clean and testable.
+"
   s.homepage     = "https://github.com/makskovalko/MagicTableBuilder.git"
   # s.screenshots  = "www.example.com/screenshots_1.gif", "www.example.com/screenshots_2.gif"
 
